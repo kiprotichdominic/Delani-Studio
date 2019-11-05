@@ -14,6 +14,24 @@ This is landing page for a studio called Delani Studio. It mainly majors in desi
 - Git clone https://github.com/kiprotichdominic/Delani-Studio.git
 - cd DELANI-STUDIO
 - On terminal type atom . to open using atom or type code . to open using Visual Studio.
+- Feel free to contribute to this project.
+
+## Behaviour Driven Development
+
+1. Landing Page
+   - Mouse-Icon: "Smooth Scrolls to the next page. Mouse icon has a bouncing effect."
+   
+2. What We Do Section
+   - Icons: "Click on the icons to display their descriptions."
+   - Descriptions: "Click on the descriptions again to hide them and to display the icons."
+
+3. Portfolio Section
+   - Images: "Hover on each image to display their respective descriptions." 
+
+4. Contact Us Section
+   - INPUT: "Fill all forms and Submit" 
+   - OUTPUT: "A popup notifcation thanking you for the feedback."
+
 
 ## Known Bugs
 
